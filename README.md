@@ -13,7 +13,7 @@ There is a relationship between treatment group and sign-up rate, they are not i
 
 **Z-Test**
 
-pvalue = 0.08175576111699284
+pvalue = 0.08175576111699284<br>
 There is no significant difference in sign-up rates between Mailer1 and Mailer2
 
 **AB Testing Conclusion**
