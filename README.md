@@ -7,15 +7,19 @@ The project aims to provide valuable insights into the comparative effectiveness
 
 ## Result:
 **Chi Square Test**
-pvalue = 1.79868789769882e-08
+
+pvalue = 1.79868789769882e-08\n
 There is a relationship between treatment group and sign-up rate, they are not independent
 
 **Z-Test**
-pvalue = 0.08175576111699284 
+
+pvalue = 0.08175576111699284\n
 There is no significant difference in sign-up rates between Mailer1 and Mailer2
 
 **AB Testing Conclusion**
+
 From AB Testing we can conclude that the campaign is succesfully increase the sign-up rate, but we can not proof that there is a significant difference between the sign-up rate of Mailer 1 and Mailer 2.
 
 **Recommendation**
+
 It is more benneficial to use Mailer 1, not only because it is more cost effective but also because there is no significant difference in sign-up rates between Mailer 1 and Mailer 2
