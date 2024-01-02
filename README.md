@@ -8,12 +8,12 @@ The project aims to provide valuable insights into the comparative effectiveness
 ## Result:
 **Chi Square Test**
 
-pvalue = 1.79868789769882e-08\n
+pvalue = 1.79868789769882e-08<br>
 There is a relationship between treatment group and sign-up rate, they are not independent
 
 **Z-Test**
 
-pvalue = 0.08175576111699284\n
+pvalue = 0.08175576111699284
 There is no significant difference in sign-up rates between Mailer1 and Mailer2
 
 **AB Testing Conclusion**
