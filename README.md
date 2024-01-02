@@ -5,7 +5,7 @@ Firstly, the chi-square test will help determine if there is any significant ass
 
 The project aims to provide valuable insights into the comparative effectiveness of the mailers, aiding in strategic decision-making for future campaign optimizations.
 
-Result:
+## Result:
 **Chi Square Test**
 pvalue = 1.79868789769882e-08
 There is a relationship between treatment group and sign-up rate, they are not independent
